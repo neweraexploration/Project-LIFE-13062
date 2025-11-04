@@ -1,0 +1,6 @@
+SWARM Body X 1
+Swarm Plate Below X 1
+Swarm Plate Above X 1
+Swarm CAP X 4
+Swarm Pillar X 4
+Swarm Caster wheel Extender X 1
